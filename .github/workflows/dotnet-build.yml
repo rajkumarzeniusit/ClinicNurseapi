@@ -47,3 +47,12 @@ jobs:
       - name: Push Docker Image to DockerHub
         run: |
           docker push ${{ secrets.DOCKERUSERNAME }}/trudoseadminportalapi:latest
+
+      - name: Deploy to Google Cloud VM
+        uses: appleboy/ssh-action@v0.1.7
+        with:
+          host: 35.208.113.104   # Replace with your Google Cloud instance IP
+          username: trudoseinstance  # Replace with your instance username
+          key: ${{ secrets.GCLOUD_SSH_PRIVATE_KEY }}
+          script: |
+            docker ps || true
