@@ -1,0 +1,97 @@
+2025-02-20 19:49:00.120 +05:30 [ERR] No Access Token found in cookies.
+2025-02-20 19:49:00.363 +05:30 [ERR] No valid Access Token found.
+2025-02-20 19:49:00.455 +05:30 [INF] Retrieving all Symptoms information.
+2025-02-20 19:49:03.424 +05:30 [INF] All Symptoms information retrieved successfully.
+2025-02-20 19:49:54.393 +05:30 [ERR] No Access Token found in cookies.
+2025-02-20 19:49:54.398 +05:30 [ERR] No valid Access Token found.
+2025-02-20 19:49:54.567 +05:30 [INF] Adding Symptoms information.
+2025-02-20 19:49:57.209 +05:30 [ERR] Failed executing DbCommand (1,428ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = Int32), @p2='?' (DbType = Int32), @p3='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO `survey_question_symptom_map` (`order_no`, `question_id`, `survey_id`, `symptom_id`)
+VALUES (@p0, @p1, @p2, @p3);
+SELECT `id`
+FROM `survey_question_symptom_map`
+WHERE ROW_COUNT() = 1 AND `id` = LAST_INSERT_ID();
+2025-02-20 19:49:59.820 +05:30 [ERR] An exception occurred in the database while saving changes for context type 'TrudoseAdminPortalAPI.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> MySqlConnector.MySqlException (0x80004005): Duplicate entry '7-6-1' for key 'survey_question_symptom_map.symptom_id'
+   at MySqlConnector.Core.ServerSession.ReceiveReplyAsync(IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 1081
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in /_/src/MySqlConnector/Core/ResultSet.cs:line 37
+   at MySqlConnector.MySqlDataReader.ActivateResultSet(CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 131
+   at MySqlConnector.MySqlDataReader.InitAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, IDictionary`2 cachedProcedures, IMySqlCommand command, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 487
+   at MySqlConnector.Core.CommandExecutor.ExecuteReaderAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/CommandExecutor.cs:line 56
+   at MySqlConnector.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 357
+   at MySqlConnector.MySqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 350
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> MySqlConnector.MySqlException (0x80004005): Duplicate entry '7-6-1' for key 'survey_question_symptom_map.symptom_id'
+   at MySqlConnector.Core.ServerSession.ReceiveReplyAsync(IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 1081
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in /_/src/MySqlConnector/Core/ResultSet.cs:line 37
+   at MySqlConnector.MySqlDataReader.ActivateResultSet(CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 131
+   at MySqlConnector.MySqlDataReader.InitAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, IDictionary`2 cachedProcedures, IMySqlCommand command, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 487
+   at MySqlConnector.Core.CommandExecutor.ExecuteReaderAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/CommandExecutor.cs:line 56
+   at MySqlConnector.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 357
+   at MySqlConnector.MySqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 350
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2025-02-20 19:50:00.412 +05:30 [ERR] Database update failed: Duplicate entry '7-6-1' for key 'survey_question_symptom_map.symptom_id'
+2025-02-20 19:50:00.417 +05:30 [ERR] SymptomsNew creation failed with status code 400: Database error: Duplicate entry '7-6-1' for key 'survey_question_symptom_map.symptom_id'
+2025-02-20 19:50:50.982 +05:30 [ERR] No Access Token found in cookies.
+2025-02-20 19:50:50.987 +05:30 [ERR] No valid Access Token found.
+2025-02-20 19:50:51.003 +05:30 [INF] Adding Symptoms information.
+2025-02-20 19:50:52.348 +05:30 [INF] Symptoms information with SymptomsNewId 5 added successfully
+2025-02-20 19:51:37.253 +05:30 [ERR] No Access Token found in cookies.
+2025-02-20 19:51:37.258 +05:30 [ERR] No valid Access Token found.
+2025-02-20 19:51:37.263 +05:30 [INF] Retrieving all Symptoms information.
+2025-02-20 19:51:38.037 +05:30 [ERR] An exception occurred while iterating over the results of a query for context type 'TrudoseAdminPortalAPI.Data.ApplicationDbContext'.
+System.InvalidOperationException: Invalid token type: 'String'.
+   at Microsoft.EntityFrameworkCore.Storage.Json.JsonCollectionOfReferencesReaderWriter`2.FromJsonTyped(Utf8JsonReaderManager& manager, Object existingObject)
+   at Microsoft.EntityFrameworkCore.Storage.Json.JsonValueReaderWriter`1.FromJson(Utf8JsonReaderManager& manager, Object existingObject)
+   at Microsoft.EntityFrameworkCore.Storage.Json.JsonValueReaderWriter.FromJsonString(String json, Object existingObject)
+   at lambda_method70(Closure, String)
+   at lambda_method32(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.InvalidOperationException: Invalid token type: 'String'.
+   at Microsoft.EntityFrameworkCore.Storage.Json.JsonCollectionOfReferencesReaderWriter`2.FromJsonTyped(Utf8JsonReaderManager& manager, Object existingObject)
+   at Microsoft.EntityFrameworkCore.Storage.Json.JsonValueReaderWriter`1.FromJson(Utf8JsonReaderManager& manager, Object existingObject)
+   at Microsoft.EntityFrameworkCore.Storage.Json.JsonValueReaderWriter.FromJsonString(String json, Object existingObject)
+   at lambda_method70(Closure, String)
+   at lambda_method32(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2025-02-20 19:51:38.559 +05:30 [ERR] Exception occurred while retrieving Symptoms data.
+System.InvalidOperationException: Invalid token type: 'String'.
+   at Microsoft.EntityFrameworkCore.Storage.Json.JsonCollectionOfReferencesReaderWriter`2.FromJsonTyped(Utf8JsonReaderManager& manager, Object existingObject)
+   at Microsoft.EntityFrameworkCore.Storage.Json.JsonValueReaderWriter`1.FromJson(Utf8JsonReaderManager& manager, Object existingObject)
+   at Microsoft.EntityFrameworkCore.Storage.Json.JsonValueReaderWriter.FromJsonString(String json, Object existingObject)
+   at lambda_method70(Closure, String)
+   at lambda_method32(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at TrudoseAdminPortalAPI.Service.SurveyQuestionmapService.GetAllquestionsbysurveyidAsync() in C:\trudose\backend\clinicnurse\final-13continuation\AdminPortalBackendCode\TrudoseAdminPortalAPI\Service\SurveyQuestionmapService.cs:line 323
+2025-02-20 19:51:38.580 +05:30 [ERR] Failed to retrieve all Symptoms. Status Code: 500, Message: An unexpected error occurred. Please try again later.
+2025-02-20 19:52:17.253 +05:30 [INF] Trudose Admin Starting the application....
+2025-02-20 19:52:17.613 +05:30 [INF] Application is running on https://localhost:7021
+2025-02-20 19:52:17.618 +05:30 [INF] Application is running on http://localhost:5082

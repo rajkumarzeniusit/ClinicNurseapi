@@ -1,0 +1,476 @@
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\appsettings.Development.json
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\appsettings.json
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\libman.json
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\TrudoseTrudoseAdminPortalAPI.staticwebassets.endpoints.json
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\TrudoseTrudoseAdminPortalAPI.exe
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\TrudoseTrudoseAdminPortalAPI.deps.json
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\TrudoseTrudoseAdminPortalAPI.runtimeconfig.json
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\TrudoseTrudoseAdminPortalAPI.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\TrudoseTrudoseAdminPortalAPI.pdb
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\CsvHelper.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\EPPlus.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\EPPlus.Interfaces.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\EPPlus.System.Drawing.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Humanizer.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\MailKit.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\MimeKit.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\MySqlConnector.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.AspNetCore.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.Extensions.Hosting.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.Extensions.Logging.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.Formatting.Compact.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.Settings.Configuration.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.Sinks.Console.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.Sinks.Debug.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.Sinks.File.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\StackExchange.Redis.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\System.CodeDom.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\bin\Debug\net9.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseTrudoseAdminPortalAPI.csproj.AssemblyReference.cache
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseTrudoseAdminPortalAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseTrudoseAdminPortalAPI.AssemblyInfoInputs.cache
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseTrudoseAdminPortalAPI.AssemblyInfo.cs
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseTrudoseAdminPortalAPI.csproj.CoreCompileInputs.cache
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseTrudoseAdminPortalAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseTrudoseAdminPortalAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\obj\Debug\net9.0\scopedcss\bundle\TrudoseTrudoseAdminPortalAPI.styles.css
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets.build.json
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets.development.json
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets\msbuild.TrudoseTrudoseAdminPortalAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets\msbuild.TrudoseTrudoseAdminPortalAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.TrudoseTrudoseAdminPortalAPI.props
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.TrudoseTrudoseAdminPortalAPI.props
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.TrudoseTrudoseAdminPortalAPI.props
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets.pack.json
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseA.6335824C.Up2Date
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseTrudoseAdminPortalAPI.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\obj\Debug\net9.0\refint\TrudoseTrudoseAdminPortalAPI.dll
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseTrudoseAdminPortalAPI.pdb
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseTrudoseAdminPortalAPI.genruntimeconfig.cache
+D:\TRUDOSEPROJECT\TrudoseTrudoseAdminPortalAPI\AdminPortalBackendCode\TrudoseAdminPortalAPI\obj\Debug\net9.0\ref\TrudoseTrudoseAdminPortalAPI.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\appsettings.Development.json
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\appsettings.json
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\libman.json
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\TrudoseAdminPortalAPI.staticwebassets.endpoints.json
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\TrudoseAdminPortalAPI.exe
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\TrudoseAdminPortalAPI.deps.json
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\TrudoseAdminPortalAPI.runtimeconfig.json
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\TrudoseAdminPortalAPI.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\TrudoseAdminPortalAPI.pdb
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\CsvHelper.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\EPPlus.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\EPPlus.Interfaces.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\EPPlus.System.Drawing.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Humanizer.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\MailKit.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\MimeKit.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\MySqlConnector.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.AspNetCore.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.Extensions.Hosting.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.Extensions.Logging.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.Formatting.Compact.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.Settings.Configuration.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.Sinks.Console.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.Sinks.Debug.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.Sinks.File.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\StackExchange.Redis.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\System.CodeDom.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseAdminPortalAPI.csproj.AssemblyReference.cache
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseAdminPortalAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseAdminPortalAPI.AssemblyInfoInputs.cache
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseAdminPortalAPI.AssemblyInfo.cs
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseAdminPortalAPI.csproj.CoreCompileInputs.cache
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseAdminPortalAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseAdminPortalAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\scopedcss\bundle\TrudoseAdminPortalAPI.styles.css
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets.build.json
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets.development.json
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets\msbuild.TrudoseAdminPortalAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets\msbuild.TrudoseAdminPortalAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.TrudoseAdminPortalAPI.props
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.TrudoseAdminPortalAPI.props
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.TrudoseAdminPortalAPI.props
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets.pack.json
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseA.6335824C.Up2Date
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseAdminPortalAPI.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\refint\TrudoseAdminPortalAPI.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseAdminPortalAPI.pdb
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseAdminPortalAPI.genruntimeconfig.cache
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\ref\TrudoseAdminPortalAPI.dll
+D:\TRUDOSEPROJECT\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\appsettings.Development.json
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\appsettings.json
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\libman.json
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\TrudoseAdminPortalAPI.staticwebassets.endpoints.json
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\TrudoseAdminPortalAPI.exe
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\TrudoseAdminPortalAPI.deps.json
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\TrudoseAdminPortalAPI.runtimeconfig.json
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\TrudoseAdminPortalAPI.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\TrudoseAdminPortalAPI.pdb
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\CsvHelper.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\EPPlus.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\EPPlus.Interfaces.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\EPPlus.System.Drawing.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Humanizer.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\MailKit.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\MimeKit.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\MySqlConnector.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.AspNetCore.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.Extensions.Hosting.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.Extensions.Logging.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.Formatting.Compact.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.Settings.Configuration.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.Sinks.Console.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.Sinks.Debug.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Serilog.Sinks.File.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\StackExchange.Redis.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\System.CodeDom.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Debug\net9.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseAdminPortalAPI.csproj.AssemblyReference.cache
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseAdminPortalAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseAdminPortalAPI.AssemblyInfoInputs.cache
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseAdminPortalAPI.AssemblyInfo.cs
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseAdminPortalAPI.csproj.CoreCompileInputs.cache
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseAdminPortalAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseAdminPortalAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\scopedcss\bundle\TrudoseAdminPortalAPI.styles.css
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets.development.json
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets\msbuild.TrudoseAdminPortalAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets\msbuild.TrudoseAdminPortalAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.TrudoseAdminPortalAPI.props
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.TrudoseAdminPortalAPI.props
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.TrudoseAdminPortalAPI.props
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\staticwebassets.pack.json
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseA.6335824C.Up2Date
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseAdminPortalAPI.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\refint\TrudoseAdminPortalAPI.dll
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseAdminPortalAPI.pdb
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\TrudoseAdminPortalAPI.genruntimeconfig.cache
+C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\obj\Debug\net9.0\ref\TrudoseAdminPortalAPI.dll

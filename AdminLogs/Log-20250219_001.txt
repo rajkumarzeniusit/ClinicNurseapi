@@ -1,0 +1,16 @@
+2025-02-19 14:48:08.752 +05:30 [ERR] No Access Token found in cookies.
+2025-02-19 14:48:08.783 +05:30 [ERR] No valid Access Token found.
+2025-02-19 14:48:08.841 +05:30 [INF] Deleting survey question symptom mapping for Question ID 8 and Survey ID 1.
+2025-02-19 14:48:10.229 +05:30 [INF] Survey question symptom mapping with Question ID 8 and Survey ID 1 deleted successfully.
+2025-02-19 14:48:15.842 +05:30 [ERR] No Access Token found in cookies.
+2025-02-19 14:48:15.846 +05:30 [ERR] No valid Access Token found.
+2025-02-19 14:48:15.851 +05:30 [INF] Deleting survey question symptom mapping for Question ID 8 and Survey ID 1.
+2025-02-19 14:48:16.413 +05:30 [ERR] Survey question symptom mapping with Question ID 8 and Survey ID 1 not found.
+2025-02-19 14:48:16.416 +05:30 [ERR] SymptomsNew delete failed with status code 404: Survey question symptom mapping with Question ID 8 and Survey ID 1 not found.
+2025-02-19 14:48:32.920 +05:30 [ERR] No Access Token found in cookies.
+2025-02-19 14:48:32.926 +05:30 [ERR] No valid Access Token found.
+2025-02-19 14:48:32.952 +05:30 [INF] Retrieving all Symptoms information.
+2025-02-19 14:48:33.624 +05:30 [INF] All Symptoms information retrieved successfully.
+2025-02-19 17:50:53.196 +05:30 [INF] Trudose Admin Starting the application....
+2025-02-19 17:50:53.737 +05:30 [INF] Application is running on https://localhost:7021
+2025-02-19 17:50:53.740 +05:30 [INF] Application is running on http://localhost:5082

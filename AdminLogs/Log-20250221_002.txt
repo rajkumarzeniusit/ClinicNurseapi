@@ -1,0 +1,7 @@
+2025-02-21 11:13:36.848 +05:30 [ERR] No Access Token found in cookies.
+2025-02-21 11:13:36.896 +05:30 [ERR] No valid Access Token found.
+2025-02-21 11:13:36.967 +05:30 [INF] Received request to fetch all system settings.
+2025-02-21 11:13:36.976 +05:30 [INF] Fetching all system settings.
+2025-02-21 11:15:27.805 +05:30 [INF] Trudose Admin Starting the application....
+2025-02-21 11:15:28.242 +05:30 [INF] Application is running on https://localhost:7021
+2025-02-21 11:15:28.244 +05:30 [INF] Application is running on http://localhost:5082

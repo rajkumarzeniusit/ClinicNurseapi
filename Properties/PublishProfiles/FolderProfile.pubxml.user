@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\trudose\backend\clinicnurse\final-13continuation\TrudoseAdminPortalAPI 1\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\TrudoseAdminPortalAPI\bin\Release\net9.0\publish\</_PublishTargetUrl>
+    <History>True|2025-02-21T08:40:40.3847595Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>server=34.60.10.142%3bDatabase=trudosedbnew%3buser=root%3bpassword=TrudoseDB%40123%3bport=3306%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="TrudoseAdminPortalAPI.Data.ApplicationDbContext">
+      <Value>server=34.60.10.142%3bDatabase=trudosedbnew%3buser=root%3bpassword=TrudoseDB%40123%3bport=3306%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

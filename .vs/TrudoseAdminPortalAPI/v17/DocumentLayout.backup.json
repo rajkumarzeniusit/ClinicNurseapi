@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\trudose\\backend\\clinicnurse\\final-13continuation\\TrudoseAdminPortalAPI 1\\TrudoseAdminPortalAPI\\TrudoseAdminPortalAPI\\TrudoseAdminPortalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA9CF75-2B93-4818-8728-FCEAEE937744}|TrudoseAdminPortalAPI.csproj|c:\\trudose\\backend\\clinicnurse\\final-13continuation\\trudoseadminportalapi 1\\trudoseadminportalapi\\trudoseadminportalapi\\trudoseadminportalapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CA9CF75-2B93-4818-8728-FCEAEE937744}|TrudoseAdminPortalAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA9CF75-2B93-4818-8728-FCEAEE937744}|TrudoseAdminPortalAPI.csproj|c:\\trudose\\backend\\clinicnurse\\final-13continuation\\trudoseadminportalapi 1\\trudoseadminportalapi\\trudoseadminportalapi\\trudoseadminportalapi\\service\\surveyclinicmapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA9CF75-2B93-4818-8728-FCEAEE937744}|TrudoseAdminPortalAPI.csproj|solutionrelative:service\\surveyclinicmapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\trudose\\backend\\clinicnurse\\final-13continuation\\TrudoseAdminPortalAPI 1\\TrudoseAdminPortalAPI\\TrudoseAdminPortalAPI\\TrudoseAdminPortalAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\trudose\\backend\\clinicnurse\\final-13continuation\\TrudoseAdminPortalAPI 1\\TrudoseAdminPortalAPI\\TrudoseAdminPortalAPI\\TrudoseAdminPortalAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T08:39:07.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SurveyClinicMapService.cs",
+              "DocumentMoniker": "C:\\trudose\\backend\\clinicnurse\\final-13continuation\\TrudoseAdminPortalAPI 1\\TrudoseAdminPortalAPI\\TrudoseAdminPortalAPI\\TrudoseAdminPortalAPI\\Service\\SurveyClinicMapService.cs",
+              "RelativeDocumentMoniker": "Service\\SurveyClinicMapService.cs",
+              "ToolTip": "C:\\trudose\\backend\\clinicnurse\\final-13continuation\\TrudoseAdminPortalAPI 1\\TrudoseAdminPortalAPI\\TrudoseAdminPortalAPI\\TrudoseAdminPortalAPI\\Service\\SurveyClinicMapService.cs",
+              "RelativeToolTip": "Service\\SurveyClinicMapService.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:37:13.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

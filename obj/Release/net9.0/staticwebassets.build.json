@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "aJJC6YCmWe5zHb2mS6sPEmtVaGnyhfVuvl3CBKTNn1E=",
+  "Source": "TrudoseAdminPortalAPI",
+  "BasePath": "_content/TrudoseAdminPortalAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

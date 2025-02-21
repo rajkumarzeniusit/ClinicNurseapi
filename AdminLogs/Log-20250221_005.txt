@@ -1,0 +1,23 @@
+2025-02-21 12:01:59.883 +05:30 [ERR] No Access Token found in cookies.
+2025-02-21 12:01:59.973 +05:30 [ERR] No valid Access Token found.
+2025-02-21 12:01:59.998 +05:30 [INF] Retrieving all Symptoms information.
+2025-02-21 12:02:00.854 +05:30 [INF] All Symptoms information retrieved successfully.
+2025-02-21 12:03:35.554 +05:30 [ERR] No Access Token found in cookies.
+2025-02-21 12:03:35.556 +05:30 [ERR] No valid Access Token found.
+2025-02-21 12:03:35.558 +05:30 [INF] Retrieving all Symptoms information.
+2025-02-21 12:03:36.200 +05:30 [INF] All Symptoms information retrieved successfully.
+2025-02-21 12:07:11.465 +05:30 [ERR] No Access Token found in cookies.
+2025-02-21 12:07:11.537 +05:30 [ERR] No valid Access Token found.
+2025-02-21 12:07:11.542 +05:30 [INF] Retrieving all Symptoms information.
+2025-02-21 12:07:13.323 +05:30 [INF] All Symptoms information retrieved successfully.
+2025-02-21 12:07:30.759 +05:30 [ERR] No Access Token found in cookies.
+2025-02-21 12:07:30.761 +05:30 [ERR] No valid Access Token found.
+2025-02-21 12:07:30.813 +05:30 [INF] Deleting all survey question symptom mappings for Question ID 5 and Survey ID 1.
+2025-02-21 12:07:32.559 +05:30 [INF] Deleted 2 survey question symptom mappings for Question ID 5 and Survey ID 1.
+2025-02-21 12:07:43.856 +05:30 [ERR] No Access Token found in cookies.
+2025-02-21 12:07:43.857 +05:30 [ERR] No valid Access Token found.
+2025-02-21 12:07:43.874 +05:30 [INF] Retrieving all Symptoms information.
+2025-02-21 12:07:44.383 +05:30 [INF] All Symptoms information retrieved successfully.
+2025-02-21 12:25:11.780 +05:30 [INF] Trudose Admin Starting the application....
+2025-02-21 12:25:12.225 +05:30 [INF] Application is running on https://localhost:7021
+2025-02-21 12:25:12.227 +05:30 [INF] Application is running on http://localhost:5082

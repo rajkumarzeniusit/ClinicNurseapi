@@ -1,0 +1,6 @@
+2025-02-20 11:43:20.117 +05:30 [INF] Trudose Admin Starting the application....
+2025-02-20 11:43:20.771 +05:30 [INF] Application is running on https://localhost:7021
+2025-02-20 11:43:20.775 +05:30 [INF] Application is running on http://localhost:5082
+2025-02-20 15:43:25.063 +05:30 [INF] Trudose Admin Starting the application....
+2025-02-20 15:43:25.911 +05:30 [INF] Application is running on https://localhost:7021
+2025-02-20 15:43:25.915 +05:30 [INF] Application is running on http://localhost:5082

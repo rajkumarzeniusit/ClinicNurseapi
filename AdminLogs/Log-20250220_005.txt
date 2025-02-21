@@ -1,0 +1,13 @@
+2025-02-20 18:24:01.569 +05:30 [ERR] No Access Token found in cookies.
+2025-02-20 18:24:01.773 +05:30 [ERR] No valid Access Token found.
+2025-02-20 18:24:02.713 +05:30 [INF] Fetched all accounts.
+2025-02-20 18:24:19.181 +05:30 [ERR] No Access Token found in cookies.
+2025-02-20 18:24:19.184 +05:30 [ERR] No valid Access Token found.
+2025-02-20 18:24:19.212 +05:30 [INF] Fetching all clinics from the database.
+2025-02-20 18:24:19.945 +05:30 [INF] Successfully retrieved 1 clinics.
+2025-02-20 18:28:40.437 +05:30 [INF] Trudose Admin Starting the application....
+2025-02-20 18:28:41.300 +05:30 [INF] Application is running on https://localhost:7021
+2025-02-20 18:28:41.302 +05:30 [INF] Application is running on http://localhost:5082
+2025-02-20 19:32:42.930 +05:30 [INF] Trudose Admin Starting the application....
+2025-02-20 19:32:43.821 +05:30 [INF] Application is running on https://localhost:7021
+2025-02-20 19:32:43.826 +05:30 [INF] Application is running on http://localhost:5082

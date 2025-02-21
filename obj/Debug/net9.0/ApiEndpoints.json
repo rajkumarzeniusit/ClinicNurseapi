@@ -1,0 +1,1066 @@
+[
+  {
+    "ContainingType": "TruDoseAPI.Controllers.AccountsController",
+    "Method": "GetAllAccounts",
+    "RelativePath": "api/Accounts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TruDoseAPI.Controllers.AccountsController",
+    "Method": "CreateAccount",
+    "RelativePath": "api/Accounts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newAccountDto",
+        "Type": "TrudoseAdminPortalAPI.Dto.AccountRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TruDoseAPI.Controllers.AccountsController",
+    "Method": "GetAccountById",
+    "RelativePath": "api/Accounts/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TruDoseAPI.Controllers.AccountsController",
+    "Method": "UpdateAccount",
+    "RelativePath": "api/Accounts/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedAccountDto",
+        "Type": "TrudoseAdminPortalAPI.Dto.AccountUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TruDoseAPI.Controllers.AccountsController",
+    "Method": "DeleteAccount",
+    "RelativePath": "api/Accounts/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClinicController",
+    "Method": "GetAllClinics",
+    "RelativePath": "api/Clinic",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClinicController",
+    "Method": "CreateClinic",
+    "RelativePath": "api/Clinic",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TrudoseAdminPortalAPI.Dto.ClinicRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClinicController",
+    "Method": "GetClinicById",
+    "RelativePath": "api/Clinic/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClinicController",
+    "Method": "UpdateClinic",
+    "RelativePath": "api/Clinic/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "TrudoseAdminPortalAPI.Dto.ClinicUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClinicController",
+    "Method": "DeleteAccount",
+    "RelativePath": "api/Clinic/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.ClinicAdminContactController",
+    "Method": "CreateClinicAdminContact",
+    "RelativePath": "api/ClinicAdminContact",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestDto",
+        "Type": "TrudoseAdminPortalAPI.Dto.ClinicAdminContactRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.ClinicAdminContactController",
+    "Method": "GetAllClinicAdminContacts",
+    "RelativePath": "api/ClinicAdminContact",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.ClinicAdminContactController",
+    "Method": "GetClinicAdminContactById",
+    "RelativePath": "api/ClinicAdminContact/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.ClinicAdminContactController",
+    "Method": "UpdateClinicAdminContact",
+    "RelativePath": "api/ClinicAdminContact/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "requestDto",
+        "Type": "TrudoseAdminPortalAPI.Dto.ClinicAdminContactUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.ClinicAdminContactController",
+    "Method": "DeleteClinicAdminContact",
+    "RelativePath": "api/ClinicAdminContact/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClinicBillingContactController",
+    "Method": "GetAll",
+    "RelativePath": "api/ClinicBillingContact",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClinicBillingContactController",
+    "Method": "Create",
+    "RelativePath": "api/ClinicBillingContact",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contactDto",
+        "Type": "TrudoseAdminPortalAPI.Dto.ClinicBillingContactRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClinicBillingContactController",
+    "Method": "GetById",
+    "RelativePath": "api/ClinicBillingContact/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClinicBillingContactController",
+    "Method": "Update",
+    "RelativePath": "api/ClinicBillingContact/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedDto",
+        "Type": "TrudoseAdminPortalAPI.Dto.ClinicBillingContactUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClinicBillingContactController",
+    "Method": "Delete",
+    "RelativePath": "api/ClinicBillingContact/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.ClinicNotificationsController",
+    "Method": "GetAllClinicNotifications",
+    "RelativePath": "api/ClinicNotifications",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.ClinicNotificationsController",
+    "Method": "CreateClinicNotification",
+    "RelativePath": "api/ClinicNotifications",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newClinicNotificationDto",
+        "Type": "TrudoseAdminPortalAPI.Dto.ClinicNotificationRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.ClinicNotificationsController",
+    "Method": "GetClinicNotificationById",
+    "RelativePath": "api/ClinicNotifications/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.ClinicNotificationsController",
+    "Method": "UpdateClinicNotification",
+    "RelativePath": "api/ClinicNotifications/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedClinicNotificationDto",
+        "Type": "TrudoseAdminPortalAPI.Dto.ClinicNotificationUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.ClinicNotificationsController",
+    "Method": "DeleteClinicNotification",
+    "RelativePath": "api/ClinicNotifications/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.DevicesController",
+    "Method": "GetAllDevices",
+    "RelativePath": "api/Devices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.DevicesController",
+    "Method": "CreateDevice",
+    "RelativePath": "api/Devices",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newDeviceDto",
+        "Type": "TrudoseAdminPortalAPI.Dto.DeviceRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.DevicesController",
+    "Method": "GetDeviceById",
+    "RelativePath": "api/Devices/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.DevicesController",
+    "Method": "UpdateDevice",
+    "RelativePath": "api/Devices/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedDeviceDto",
+        "Type": "TrudoseAdminPortalAPI.Dto.DeviceUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.DevicesController",
+    "Method": "DeleteDevice",
+    "RelativePath": "api/Devices/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.FirmwareUpdatesController",
+    "Method": "GetAllFirmwareUpdates",
+    "RelativePath": "api/FirmwareUpdates",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.FirmwareUpdatesController",
+    "Method": "CreateFirmwareUpdate",
+    "RelativePath": "api/FirmwareUpdates",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newFirmwareUpdateDto",
+        "Type": "TrudoseAdminPortalAPI.Data.FirmwareUpdateRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.FirmwareUpdatesController",
+    "Method": "GetFirmwareUpdateById",
+    "RelativePath": "api/FirmwareUpdates/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.FirmwareUpdatesController",
+    "Method": "UpdateFirmwareUpdate",
+    "RelativePath": "api/FirmwareUpdates/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedFirmwareUpdateDto",
+        "Type": "TrudoseAdminPortalAPI.Data.FirmwareUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.FirmwareUpdatesController",
+    "Method": "DeleteFirmwareUpdate",
+    "RelativePath": "api/FirmwareUpdates/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClinicNurse.Controllers.QuestionsMasterController",
+    "Method": "GetAllQuestionnaires",
+    "RelativePath": "api/QuestionsMaster",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClinicNurse.Controllers.QuestionsMasterController",
+    "Method": "DeleteQuestionnaireAsync",
+    "RelativePath": "api/QuestionsMaster/deletequestionbyid/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClinicNurse.Controllers.QuestionsMasterController",
+    "Method": "GetQuestionnaireByIdAsync",
+    "RelativePath": "api/QuestionsMaster/questionbyid/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClinicNurse.Controllers.QuestionsMasterController",
+    "Method": "AddQuestionnaireAsync",
+    "RelativePath": "api/QuestionsMaster/questions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "symptoms",
+        "Type": "TrudoseAdminPortalAPI.Dto.QuestionsMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClinicNurse.Controllers.QuestionsMasterController",
+    "Method": "UpdateQuestionnaireAsync",
+    "RelativePath": "api/QuestionsMaster/updatequestionbyid/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedSymptoms",
+        "Type": "TrudoseAdminPortalAPI.Dto.QuestionsMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.SurveyClinicMapController",
+    "Method": "GetAllSurveyClinicMaps",
+    "RelativePath": "api/SurveyClinicMap/getall",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.SurveyClinicMapController",
+    "Method": "AddQuestionnaireAsync",
+    "RelativePath": "api/SurveyClinicMap/surveyclinicmap",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "symptoms",
+        "Type": "TrudoseAdminPortalAPI.Dto.SurveyClinicMapDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.SurveyClinicMapController",
+    "Method": "GetQuestionnaireByIdAsync",
+    "RelativePath": "api/SurveyClinicMap/surveyclinicmap/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.SurveyClinicMapController",
+    "Method": "DeleteQuestionnaireAsync",
+    "RelativePath": "api/SurveyClinicMap/surveyclinicmapbyid/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.SurveyClinicMapController",
+    "Method": "UpdateSurveyClinicMap",
+    "RelativePath": "api/SurveyClinicMap/update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "surveyClinicMapDto",
+        "Type": "TrudoseAdminPortalAPI.Dto.SurveyClinicMapDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.SurveyMasterController",
+    "Method": "GetAllSurveys",
+    "RelativePath": "api/SurveyMaster",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.SurveyMasterController",
+    "Method": "DeleteSurveyAsync",
+    "RelativePath": "api/SurveyMaster/deletesurveybyid/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.SurveyMasterController",
+    "Method": "GetSurveyByIdAsync",
+    "RelativePath": "api/SurveyMaster/getsurveybyid/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.SurveyMasterController",
+    "Method": "AddSurveyAsync",
+    "RelativePath": "api/SurveyMaster/survey",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "symptoms",
+        "Type": "TrudoseAdminPortalAPI.Dto.SurveyMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.SurveyMasterController",
+    "Method": "UpdateSurveyAsync",
+    "RelativePath": "api/SurveyMaster/updatesurveybyid/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedSymptoms",
+        "Type": "TrudoseAdminPortalAPI.Dto.SurveyMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.SurveyQuestionMapController",
+    "Method": "DeleteSurveyQuestionMap",
+    "RelativePath": "api/SurveyQuestionMap/deletesurveyquestionmapby/{questionId}/{surveyId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "questionId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "surveyId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.SurveyQuestionMapController",
+    "Method": "Deletesymptoms",
+    "RelativePath": "api/SurveyQuestionMap/deletesurveyquestionmapbyid/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.SurveyQuestionMapController",
+    "Method": "GetSymptomById",
+    "RelativePath": "api/SurveyQuestionMap/getsurveyquestionmapbyid/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.SurveyQuestionMapController",
+    "Method": "AddPatientInfo",
+    "RelativePath": "api/SurveyQuestionMap/surveyquestionmap",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "symptoms",
+        "Type": "TrudoseAdminPortalAPI.Dto.PatientSurveyQuestionMapDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.SurveyQuestionMapController",
+    "Method": "GetAllSymptoms",
+    "RelativePath": "api/SurveyQuestionMap/surveyquestionmap/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.SurveyQuestionMapController",
+    "Method": "GetQuestionsBySurveyId",
+    "RelativePath": "api/SurveyQuestionMap/surveyquestionmap/questions/{surveyId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "surveyId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.SurveyQuestionMapController",
+    "Method": "UpdatePatientInfo",
+    "RelativePath": "api/SurveyQuestionMap/updatesurveyquestionmapbyid/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedSymptoms",
+        "Type": "TrudoseAdminPortalAPI.Dto.PatientSurveyQuestionMapUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.SurveyQuestionsListController",
+    "Method": "GetSurveyData",
+    "RelativePath": "api/SurveyQuestionsList/GetSurveyQuestionsData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "symptomIds",
+        "Type": "System.Collections.Generic.List\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.SymptomsMasterController",
+    "Method": "GetAllSymptomsMasterAsync",
+    "RelativePath": "api/SymptomsMaster/allsymptoms",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.SymptomsMasterController",
+    "Method": "DeleteSymptomsMasterAsync",
+    "RelativePath": "api/SymptomsMaster/deletesymptomsbyid/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.SymptomsMasterController",
+    "Method": "GetSymptomsMasterByIdAsync",
+    "RelativePath": "api/SymptomsMaster/getsymptomsbyid/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.SymptomsMasterController",
+    "Method": "AddSymptomsMasterAsync",
+    "RelativePath": "api/SymptomsMaster/symptoms",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "symptoms",
+        "Type": "TrudoseAdminPortalAPI.Dto.SymptomsMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAdminPortalAPI.Controllers.SymptomsMasterController",
+    "Method": "UpdateSymptomsMasterAsync",
+    "RelativePath": "api/SymptomsMaster/updatesymptomsbyid/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedSymptoms",
+        "Type": "TrudoseAdminPortalAPI.Dto.SymptomsMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAuthAPIService.Controllers.SystemSettingsController",
+    "Method": "GetAllSettings",
+    "RelativePath": "api/system-settings",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAuthAPIService.Controllers.SystemSettingsController",
+    "Method": "GetSetting",
+    "RelativePath": "api/system-settings/{key}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAuthAPIService.Controllers.SystemSettingsController",
+    "Method": "UpdateSetting",
+    "RelativePath": "api/system-settings/{key}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "value",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrudoseAuthAPIService.Controllers.SystemSettingsController",
+    "Method": "UpdateMultipleSettings",
+    "RelativePath": "api/system-settings/batch-update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "settings",
+        "Type": "System.Collections.Generic.Dictionary\u00602[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

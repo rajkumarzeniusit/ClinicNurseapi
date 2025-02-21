@@ -1,0 +1,8 @@
+2025-02-21 11:44:53.779 +05:30 [ERR] No Access Token found in cookies.
+2025-02-21 11:44:53.875 +05:30 [ERR] No valid Access Token found.
+2025-02-21 11:44:53.906 +05:30 [INF] Fetching all SurveyClinicMap records.
+2025-02-21 11:44:54.565 +05:30 [WRN] No SurveyClinicMap records found.
+2025-02-21 11:44:54.568 +05:30 [ERR] SurveyClinicMap getall failed with status code 404: No SurveyClinicMap records found.
+2025-02-21 12:01:00.591 +05:30 [INF] Trudose Admin Starting the application....
+2025-02-21 12:01:01.047 +05:30 [INF] Application is running on https://localhost:7021
+2025-02-21 12:01:01.049 +05:30 [INF] Application is running on http://localhost:5082

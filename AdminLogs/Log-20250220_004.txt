@@ -1,0 +1,40 @@
+2025-02-20 17:30:24.875 +05:30 [ERR] No Access Token found in cookies.
+2025-02-20 17:30:24.984 +05:30 [ERR] No valid Access Token found.
+2025-02-20 17:30:25.075 +05:30 [INF] Received request to update setting: redis_host
+2025-02-20 17:30:25.086 +05:30 [INF] Updating system setting: redis_host = 10.210.108.43
+2025-02-20 17:30:46.275 +05:30 [ERR] No Access Token found in cookies.
+2025-02-20 17:30:46.278 +05:30 [ERR] No valid Access Token found.
+2025-02-20 17:30:46.283 +05:30 [INF] Received request to update setting: redis_port
+2025-02-20 17:30:46.287 +05:30 [INF] Updating system setting: redis_port = 6379
+2025-02-20 17:31:02.999 +05:30 [ERR] No Access Token found in cookies.
+2025-02-20 17:31:03.011 +05:30 [ERR] No valid Access Token found.
+2025-02-20 17:31:03.026 +05:30 [INF] Received request to update setting: SMTPHost
+2025-02-20 17:31:03.027 +05:30 [INF] Updating system setting: SMTPHost = smtp.gmail.com
+2025-02-20 17:31:03.519 +05:30 [INF] Setting not found, creating a new one.
+2025-02-20 17:31:18.209 +05:30 [ERR] No Access Token found in cookies.
+2025-02-20 17:31:18.212 +05:30 [ERR] No valid Access Token found.
+2025-02-20 17:31:18.215 +05:30 [INF] Received request to update setting: SMTPPort
+2025-02-20 17:31:18.218 +05:30 [INF] Updating system setting: SMTPPort = 587
+2025-02-20 17:31:18.705 +05:30 [INF] Setting not found, creating a new one.
+2025-02-20 17:31:36.946 +05:30 [ERR] No Access Token found in cookies.
+2025-02-20 17:31:36.949 +05:30 [ERR] No valid Access Token found.
+2025-02-20 17:31:36.953 +05:30 [INF] Received request to update setting: SenderEmail
+2025-02-20 17:31:36.955 +05:30 [INF] Updating system setting: SenderEmail = itzenius@gmail.com
+2025-02-20 17:31:37.440 +05:30 [INF] Setting not found, creating a new one.
+2025-02-20 17:31:56.777 +05:30 [ERR] No Access Token found in cookies.
+2025-02-20 17:31:56.779 +05:30 [ERR] No valid Access Token found.
+2025-02-20 17:31:56.782 +05:30 [INF] Received request to update setting: SenderPassword
+2025-02-20 17:31:56.785 +05:30 [INF] Updating system setting: SenderPassword = bsuy mslo shxa mimu
+2025-02-20 17:31:57.267 +05:30 [INF] Setting not found, creating a new one.
+2025-02-20 17:32:13.982 +05:30 [ERR] No Access Token found in cookies.
+2025-02-20 17:32:13.984 +05:30 [ERR] No valid Access Token found.
+2025-02-20 17:32:13.986 +05:30 [INF] Received request to update setting: EnableSSL
+2025-02-20 17:32:13.987 +05:30 [INF] Updating system setting: EnableSSL = 1
+2025-02-20 17:32:14.477 +05:30 [INF] Setting not found, creating a new one.
+2025-02-20 17:32:20.674 +05:30 [ERR] No Access Token found in cookies.
+2025-02-20 17:32:20.677 +05:30 [ERR] No valid Access Token found.
+2025-02-20 17:32:20.689 +05:30 [INF] Received request to fetch all system settings.
+2025-02-20 17:32:20.693 +05:30 [INF] Fetching all system settings.
+2025-02-20 18:23:32.862 +05:30 [INF] Trudose Admin Starting the application....
+2025-02-20 18:23:33.750 +05:30 [INF] Application is running on https://localhost:7021
+2025-02-20 18:23:33.755 +05:30 [INF] Application is running on http://localhost:5082
