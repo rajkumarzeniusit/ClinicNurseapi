@@ -41,14 +41,20 @@ jobs:
 
       # Configure Docker to use Google Container Registry (GCR)
       - name: Configure Docker to use GCR
-        run: gcloud auth configure-docker gcr.io
+        run: gcloud auth configure-docker us-central1-docker.pkg.dev
+      - name: Build Docker Image
+        run: docker build -t us-central1-docker.pkg.dev/${{ secrets.GCP_PROJECT_ID }}/trudoseadminportalapicontainer/trudoseadminportalapi:latest .
+      - name: Push Image to Artifact Registry
+        run: docker push us-central1-docker.pkg.dev/${{ secrets.GCP_PROJECT_ID }}/trudoseadminportalapicontainer/trudoseadminportalapi:latest
+
+       #gcloud auth configure-docker gcr.io
 
       # Build and push the Docker image to GCR
-      - name: Build and Push Docker Image to GCR
-        run: |
-          IMAGE_NAME=gcr.io/${{ secrets.GCP_PROJECT_ID }}/trudoseadminportalapi:latest
-          docker build -t $IMAGE_NAME .
-          docker push $IMAGE_NAME
+      # - name: Build and Push Docker Image to GCR
+      #   run: |
+      #     IMAGE_NAME=gcr.io/${{ secrets.GCP_PROJECT_ID }}/trudoseadminportalapi:latest
+      #     docker build -t $IMAGE_NAME .
+      #     docker push $IMAGE_NAME
 
       # Deploy to Google Cloud VM
       - name: Deploy to Google Cloud VM
