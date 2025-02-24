@@ -33,15 +33,15 @@ jobs:
       - name: Publish Application
         run: dotnet publish -c Release -o ./publish
 
-      # # Authenticate with Google Cloud
-      # - name: Authenticate with Google Cloud
-      #   uses: google-github-actions/auth@v2
-      #   with:
-      #     credentials_json: ${{ secrets.GCP_SERVICE_ACCOUNT_KEY }}
+      # Authenticate with Google Cloud
+      - name: Authenticate with Google Cloud
+        uses: google-github-actions/auth@v2
+        with:
+          credentials_json: ${{ secrets.GCP_SERVICE_ACCOUNT_KEY }}
 
-      # # Configure Docker to use Google Container Registry (GCR)
-      # - name: Configure Docker to use GCR
-      #   run: gcloud auth configure-docker gcr.io
+      # Configure Docker to use Google Container Registry (GCR)
+      - name: Configure Docker to use GCR
+        run: gcloud auth configure-docker gcr.io
 
       # # Build and push the Docker image to GCR
       # - name: Build and Push Docker Image to GCR
