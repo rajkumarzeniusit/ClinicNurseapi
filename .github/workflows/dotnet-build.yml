@@ -54,7 +54,7 @@ jobs:
       - name: Deploy to Google Cloud VM
         uses: appleboy/ssh-action@v0.1.7
         with:
-          host: 35.208.229.63   # Replace with your Google Cloud instance IP
+          host: 35.209.150.71   # Replace with your Google Cloud instance IP
           username: trudoseinstance  # Replace with your instance username
           key: ${{ secrets.GCLOUD_SSH_PRIVATE_KEY }}
           script: |
