@@ -47,15 +47,6 @@ jobs:
       - name: Push Image to Artifact Registry
         run: docker push us-central1-docker.pkg.dev/${{ secrets.GCP_PROJECT_ID }}/trudoseadminportalapicontainer/trudoseadminportalapi:latest
 
-       #gcloud auth configure-docker gcr.io
-
-      # Build and push the Docker image to GCR
-      # - name: Build and Push Docker Image to GCR
-      #   run: |
-      #     IMAGE_NAME=gcr.io/${{ secrets.GCP_PROJECT_ID }}/trudoseadminportalapi:latest
-      #     docker build -t $IMAGE_NAME .
-      #     docker push $IMAGE_NAME
-
       # Deploy to Google Cloud VM
       - name: Deploy to Google Cloud VM
         uses: appleboy/ssh-action@v0.1.7
@@ -64,15 +55,15 @@ jobs:
           username: trudoseinstance  # Replace with your instance username
           key: ${{ secrets.GCLOUD_SSH_PRIVATE_KEY }}
           script: |
-            # IMAGE_NAME=gcr.io/${{ secrets.GCP_PROJECT_ID }}/trudoseadminportalapi:latest
+            IMAGE_NAME=gcr.io/${{ secrets.GCP_PROJECT_ID }}/trudoseadminportalapi:latest
             
-            # # Stop and remove the existing container
-            # docker stop trudoseadminportalapi || true
-            # docker rm trudoseadminportalapi || true
+            # Stop and remove the existing container
+            docker stop trudoseadminportalapi || true
+            docker rm trudoseadminportalapi || true
             docekr ps || true
             
-            # # Pull the latest image from GCR
-            # docker pull $IMAGE_NAME
+            # Pull the latest image from GCR
+            docker pull $IMAGE_NAME
             
-            # # Run the new container
-            # docker run -d -p 9999:8910 --name trudoseadminportalapi $IMAGE_NAME
+            # Run the new container
+            docker run -d -p 9999:8910 --name trudoseadminportalapi $IMAGE_NAME
