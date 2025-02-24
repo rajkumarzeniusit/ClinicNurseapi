@@ -55,8 +55,12 @@ jobs:
           username: trudoseinstance  # Replace with your instance username
           key: ${{ secrets.GCLOUD_SSH_PRIVATE_KEY }}
           script: |
-            IMAGE_NAME=gcr.io/${{ secrets.GCP_PROJECT_ID }}/trudoseadminportalapi:latest
+            IMAGE_NAME=us-central1-docker.pkg.dev/${{ secrets.GCP_PROJECT_ID }}/trudoseadminportalapicontainer/trudoseadminportalapi:latest
             CONTAINER_NAME=trudoseadminportalapi
+            
+            # Authenticate with Artifact Registry
+            gcloud auth configure-docker us-central1-docker.pkg.dev
+           
             # Stop and remove the existing container
             if [ "$(docker ps -aq -f name=$CONTAINER_NAME)" ]; then
                 echo "Stopping and removing existing container..."
