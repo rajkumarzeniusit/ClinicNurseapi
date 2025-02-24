@@ -56,11 +56,15 @@ jobs:
           key: ${{ secrets.GCLOUD_SSH_PRIVATE_KEY }}
           script: |
             IMAGE_NAME=gcr.io/${{ secrets.GCP_PROJECT_ID }}/trudoseadminportalapi:latest
-            
+            CONTAINER_NAME=trudoseadminportalapi
             # Stop and remove the existing container
-            docker stop trudoseadminportalapi || true
-            docker rm trudoseadminportalapi || true
-            docekr ps || true
+            if [ "$(docker ps -aq -f name=$CONTAINER_NAME)" ]; then
+                echo "Stopping and removing existing container..."
+                docker stop $CONTAINER_NAME || true
+                docker rm $CONTAINER_NAME || true
+            else
+                echo "Container does not exist, skipping stop and remove steps."
+            fi
             
             # Pull the latest image from GCR
             docker pull $IMAGE_NAME
