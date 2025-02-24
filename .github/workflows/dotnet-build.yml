@@ -43,12 +43,12 @@ jobs:
       - name: Configure Docker to use GCR
         run: gcloud auth configure-docker gcr.io
 
-      # # Build and push the Docker image to GCR
-      # - name: Build and Push Docker Image to GCR
-      #   run: |
-      #     IMAGE_NAME=gcr.io/${{ secrets.GCP_PROJECT_ID }}/trudoseadminportalapi:latest
-      #     docker build -t $IMAGE_NAME .
-      #     docker push $IMAGE_NAME
+      # Build and push the Docker image to GCR
+      - name: Build and Push Docker Image to GCR
+        run: |
+          IMAGE_NAME=gcr.io/${{ secrets.GCP_PROJECT_ID }}/trudoseadminportalapi:latest
+          docker build -t $IMAGE_NAME .
+          docker push $IMAGE_NAME
 
       # Deploy to Google Cloud VM
       - name: Deploy to Google Cloud VM
@@ -61,12 +61,12 @@ jobs:
             # IMAGE_NAME=gcr.io/${{ secrets.GCP_PROJECT_ID }}/trudoseadminportalapi:latest
             
             # # Stop and remove the existing container
-            # docker stop trudoseapi || true
-            # docker rm trudoseapi || true
+            # docker stop trudoseadminportalapi || true
+            # docker rm trudoseadminportalapi || true
             docekr ps || true
             
             # # Pull the latest image from GCR
             # docker pull $IMAGE_NAME
             
             # # Run the new container
-            # docker run -d -p 9999:8910 --name trudoseapi $IMAGE_NAME
+            # docker run -d -p 9999:8910 --name trudoseadminportalapi $IMAGE_NAME
